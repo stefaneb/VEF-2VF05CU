@@ -13,5 +13,5 @@ def biography():
 
 @route('/pictures')
 def pictures():
-    return "<h2>Hérna væru myndir af Steve Jobs</h2>"
+    return "Hérna væru myndir af Steve Jobs"
 run()
